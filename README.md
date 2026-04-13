@@ -139,9 +139,9 @@ A full written analysis report is available in both PDF and Word format in the `
 ---
 ## Contributors
 
-Chamali Abeysekara
-Rajintha Hewanayaka
-Hussein Ziyard
-Nasir Mohomad
+- Chamali Abeysekara
+- Rajintha Hewanayaka
+- Hussein Ziyard
+- Nasir Mohomad
 
 ---
