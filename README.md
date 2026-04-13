@@ -137,4 +137,10 @@ A full written analysis report is available in both PDF and Word format in the `
 - Wikipedia: [All-time Olympic Games medal table](https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table)
 
 ---
+## Contributors
+Chamali Abeysekara
+Rajintha Hewanayaka
+Hussein Ziyard
+Nasir Mohomad
 
+---
